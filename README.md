@@ -1,2 +1,2 @@
 # web_assignment
-My easy web assignment about introduce totoro.
+My easy web assignment about introduction to totoro.
